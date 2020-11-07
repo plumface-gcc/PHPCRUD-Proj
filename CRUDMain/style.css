@@ -1,0 +1,48 @@
+html 
+{
+    background-color: rgb(192, 192, 192);
+}
+
+body 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+td, th 
+{
+    border: 1px dashed black;
+    padding: .2em .5em .2em .5em;
+    vertical-align: top;
+    text-align: left;
+}
+
+#mybutton
+{
+
+	margin-top: 30px;
+
+}
+
+#productform
+{
+	padding: 10px;
+}
+
+label
+{
+	
+	margin-top: 50px;
+
+}
+
+h5
+{
+
+	padding-top: 15px;
+
+}
